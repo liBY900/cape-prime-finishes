@@ -28,7 +28,7 @@ function Services() {
       title: 'Panel Beating & Spray Painting',
       description:
         'Professional panel beating and spray painting to restore damaged vehicles.',
-      image: '/src/assets/images/panel-beating.jpg',
+      image: '/src/assets/images/car.jpg',
     },
     {
       title: 'Vehicle Body Repair',
